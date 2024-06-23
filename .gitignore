@@ -231,3 +231,4 @@ mygpt/
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode
 config.ini
 .vscode/*
+test_program/
